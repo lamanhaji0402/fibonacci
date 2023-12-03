@@ -1,0 +1,14 @@
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\bin\Debug\net7.0\Fibo3.exe
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\bin\Debug\net7.0\Fibo3.deps.json
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\bin\Debug\net7.0\Fibo3.runtimeconfig.json
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\bin\Debug\net7.0\Fibo3.dll
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\bin\Debug\net7.0\Fibo3.pdb
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.AssemblyInfoInputs.cache
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.AssemblyInfo.cs
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.dll
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\refint\Fibo3.dll
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.pdb
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\Fibo3.genruntimeconfig.cache
+C:\Users\Spectre\source\repos\Fibo3\Fibo3\obj\Debug\net7.0\ref\Fibo3.dll
